@@ -1,3 +1,7 @@
-Django>=3.2.3,<3.3
-psycopg2>=2.8.6,<2.9
-uWSGI>=2.0.19.1,<2.1
+asgiref==3.5.2
+Django==3.2.14
+psycopg2-binary==2.9.3
+python-dotenv==0.20.0
+pytz==2022.1
+sqlparse==0.4.2
+uWSGI==2.0.20
